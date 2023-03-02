@@ -83,6 +83,8 @@ export default function App() {
               <Text>{ weatherDescription }</Text>
               <Text>{ icon }</Text>
               <Text>{ humidity }</Text>
+              <Text> dlfjslkfjslfjs </Text>
+
             </View>
         )
       }
